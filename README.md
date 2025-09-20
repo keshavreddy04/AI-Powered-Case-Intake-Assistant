@@ -55,7 +55,7 @@ I consulted Dr. Rao at City Hospital in July.
 ```
 ---
 
-#📊 Impact
+## 📊 Impact
 
 - Reduced manual data entry by ~50%.
 
@@ -65,7 +65,7 @@ I consulted Dr. Rao at City Hospital in July.
 
 ---
 
-#⚠️ Risks & Mitigation
+## ⚠️ Risks & Mitigation
 
 - Data Privacy → Ensure sensitive client data is anonymized.
 
@@ -75,7 +75,7 @@ I consulted Dr. Rao at City Hospital in July.
 
 ---
 
-#📌 Future Improvements
+## 📌 Future Improvements
 
 - Integration with CloudLex API for seamless workflow.
 
@@ -85,7 +85,7 @@ I consulted Dr. Rao at City Hospital in July.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 - V Om Keshava Reddy
 - 📌 B.Tech CSE (AI & ML), SRM University
